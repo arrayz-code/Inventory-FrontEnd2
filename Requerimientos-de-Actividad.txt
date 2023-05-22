@@ -1,0 +1,70 @@
+Crear WEB interactiva 
+
+     Usar HTML, CSS, JS ✅
+     Orientada a Objetos 
+     Manipulacion de DOM 
+     Programacion Reactiva 
+
+Aplicación de Gestión de Inventario
+
+     Navegar
+     Filtrar
+     Buscar
+     Agregar Productos en tiempo real
+     Usar metodo de persistencia de datos la API de Local Storage
+     Implementar objetos en javascript con sus respectivas propiedades
+     Métodos para manejar la data
+     Utilizar técnicas de programación reactiva para detectar cambios en la       data y actualizar automáticamente la interfaz de usuario en consecuencia
+     También debe utilizar técnicas de manipulación del DOM para agregar, editar y eliminar elementos en la página en tiempo real.
+     Incluir funcionalidades de filtrado, búsqueda y renderizado dinámico de los productos utilizando javascript  
+     Implementar técnicas para lograr una experiencia de usuario similar a la que proporcionan los frameworks de front-end
+     Optimizar la aplicación para su uso en dispositivos móviles y tabletas mediante el uso de técnicas de diseño responsivo.
+     Implementar un sistema de alertas y notificaciones para informar al usuario sobre acciones realizadas con éxito o errores (utilizando  clases).
+     Implementar un sistema de backup y restore de la información del inventario para recuperar los datos en caso de fallas o errores.
+     Exportar los datos en un formato JSON y tener la opción de recuperar, de manera condicionada
+
+Debe enviar los wireframes por el grupo conversacional con al menos 3 días de anticipación de la fecha de entrega para poder emitir correcciones de diseño y funcionamiento.
+
+Opción de entrega:
+
+     1-. Código del proyecto en gitHub - en la rama main, esta debe contener los commits de los cambios ✅
+
+     2-. Un video explicando el desarrollo de la actividad y como funciona, máximo 10 minutos. Donde TODOS los integrantes se puedan ver. 
+
+     3-. Diseño responsive en las diferentes resoluciones 
+
+     4-. Wireframes de la aplicación y kit donde indique paleta de colores, tipografías, entre otros
+
+
+     El vídeo debe mostrar los datos de la Universidad, nombre de la materia, carrera, integrantes y docente.
+
+     Debe usar un grabador de pantalla, en ningún momento use una cámara para grabar la pantalla.
+
+     Asegure que el audio esté en un nivel acorde. 
+
+     El video debe ser subido a youtube.
+
+     Su trabajo puede ser sometido a interrogatorio. De ser el caso, debe defenderlo para evitar que su nota se vea afectada.
+
+     Utilice librerías como bootstrap para el diseño.
+
+Penalizaciones (si se ve afectado por varias, daría un máximo de -20 puntos, lo que significa una nota de 0 puntos en la evaluación):
+
+No entregar video: -15 pts.
+
+No entregar informe: -8 pts.
+
+Audio o video de mala calidad: -5 pts
+
+Diseño no responsive y sin uso de programación reactiva u objetos funcionalidad: -18 pts.
+
+No compartir los wireframes para ser debatidos: - 3pts.
+
+
+     
+
+
+
+
+
+ 
