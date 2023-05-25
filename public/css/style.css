@@ -1,0 +1,144 @@
+/* -------- ESTILOS GENERALES -------- */
+* {
+    margin: 0;
+    
+
+}
+
+/*DEFINICION DE COLOR DE FONDO LETRA Y FUENTE*/
+
+:root {
+    --bg-color: #000;
+    --font-color: #fff;
+    --font: "Merriweather";
+}
+
+h1 {
+    font-family: var(--font);
+    color: var(--font-color);
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-family: var(--font);
+    font-size: 2.5rem;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-color);
+    padding-top: 2.5rem;
+    padding-right: 2.5rem;
+    padding-bottom: 2.5rem;
+    padding-left: 2.5rem;
+}
+
+
+
+div {
+
+
+    padding-top: 1rem;
+    display: grid;
+    place-items: center;
+
+
+}
+
+
+
+input,
+textarea {
+
+    margin-bottom: 15px;
+    border-color: var(--bg-color);
+    width: 20rem;
+    height: 2.5rem;
+}
+
+button {
+    padding-top: 0;
+    width: 12.5rem;
+    height: 2.5rem;
+    align-items: center;
+    color: var(--font-color);
+    background-color: var(--bg-color);
+}
+
+.search-box {
+    margin-top: 50px;
+
+    display: flex;
+
+    justify-content: center;
+    text-align: center;
+    height: 2.5rem;
+    width: 100%;
+
+
+}
+
+
+
+#buscar, #filtrar {
+
+    margin-left: 0,5rem;
+    margin-bottom: 1rem;
+    width: 4rem;
+    height: 2rem;
+    color: var(--font-color);
+    border: var(--font-color);
+    background-color: var(--font-color);
+}
+
+
+
+#escribir {
+    border-radius: 30px;
+    background-color: var(--bg-color);
+    color: var(--font-color);
+    font-family: var(--font);
+
+}
+
+
+form {
+
+    align-items: center;
+    justify-content: center;
+
+}
+
+table
+{ 
+    margin-top: 20px;
+margin-left: auto;
+margin-right: auto;
+text-align: left; /* Para que deje el texto dentro de la tabla hacia la izquierda */
+}
+
+
+footer {
+    
+    color: var(--font-color);
+    background-color: var(--bg-color);
+    align-self: flex-end;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+   
+
+    bottom: 0;
+}
+
+
+
+a{
+    text-decoration: none ;
+    color: var(--font-color);
+}

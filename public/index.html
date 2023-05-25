@@ -1,19 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inventory Front End</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="images/letra-g.png" type="image/x-icon">
 
-    <link rel="stylesheet" href="ccs/style-one.css">
 </head>
+
 <body>
+    <header>
+        <h1>Inventory App</h1>
+    </header>
 
-        <h1>Your Inventory</h1>
+    <div>
+        <h2>Inventario</h2>
+    </div>
 
-     
+    <div class="search-box">
+        <input id="escribir" type="text">
+        <button id="buscar" type="submit"><img src="images/lupa.png" alt=""></button>
+        <button id="filtrar" type="submit"><img src="images/simbolo-de-herramienta-llena-de-filtro.png" alt=""></button>
+    </div>
 
+
+
+
+
+<br>
+    <div style="grid: center">
+        <button id="agregarItem" type="menu" class="btn btn-primary">
+            <a href="agregar.html">AGREGAR</a>
+        </button>
+    </div>
+
+    <footer>
+        <p>Copyrigth | 2023</p>
+    </footer>
+
+    <script src="js/index.js"></script>
 
 </body>
+
 </html>
